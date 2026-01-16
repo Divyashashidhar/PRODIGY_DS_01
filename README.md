@@ -1,2 +1,2 @@
 # PRODIGY_DS_01
-Data Science 
+Create a barchart or histogram to visualize the distribution of categorical or continuous variable, such as the distribution of ages or genders in a population.
